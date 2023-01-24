@@ -1,3 +1,4 @@
+// Take a square matrix input , and transpose it passing it to a function, without using multiple array 
 #include<bits/stdc++.h>
 using namespace std;
 void replace(int *a , int r){
