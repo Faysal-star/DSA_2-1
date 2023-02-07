@@ -20,7 +20,7 @@ void replace(int *a , int r){
                int y = *(a + (j*r + i)) ;
                *(a + (i*r + j)) = y ;
                *(a + (j*r + i)) = x ; 
-            **/   
+            **/     
         }
     }
 }
